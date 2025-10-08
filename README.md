@@ -10,6 +10,9 @@ It is inspired by the Mazer template but **fully customized from scratch** to sh
 **Vennu Sai Charan** – B.Tech in Artificial Intelligence  
 Email: vennusaicharan09@gmail.com
 
+<img width="1920" height="1030" alt="2025-10-08" src="https://github.com/user-attachments/assets/d3d1ecca-e760-4cf7-bcc9-4b5c86108792" />
+
+
 The dashboard includes:
 - Profile statistics cards
 - Charts for user visits by region
@@ -136,3 +139,4 @@ Practical skills applicable to real-world front-end development scenarios.
 
 https://front-end-project-c2y55zddh-vennu-sai-charans-projects.vercel.app/
 ```
+
